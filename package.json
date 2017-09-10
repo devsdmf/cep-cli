@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/devsdmf/cep-cli/issues"
   },
-  "homepage": "https://github.com/devsdmf/cep-cli#readme"
+  "homepage": "https://github.com/devsdmf/cep-cli#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
 }
