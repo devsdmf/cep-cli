@@ -1,0 +1,27 @@
+{
+  "name": "cep-cli",
+  "version": "0.0.0",
+  "description": "Find Brazilian addresses information by its zipcode (CEP) or the address line via CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsdmf/cep-cli.git"
+  },
+  "keywords": [
+    "correios",
+    "cep",
+    "cli",
+    "address",
+    "zipcode",
+    "cepaberto"
+  ],
+  "author": "Lucas Mendes <devsdmf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsdmf/cep-cli/issues"
+  },
+  "homepage": "https://github.com/devsdmf/cep-cli#readme"
+}
