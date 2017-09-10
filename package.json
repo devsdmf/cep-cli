@@ -28,5 +28,9 @@
     "cepaberto": "^1.0.0",
     "chalk": "^2.1.0",
     "commander": "^2.11.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "cep": "./index.js"
   }
 }
